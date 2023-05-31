@@ -9,7 +9,7 @@
 
 <h3>You can contact me at <a>normanyaptw@yahoo.com</a> for more iniquiries</h3>
 
-```js:
+```js
 
 
 const hobbies = ["playing guitar", "playing football", "programming"]
@@ -26,3 +26,4 @@ const meaningOfLife = () => {
 }
 
 console.log(meaningOfLife())
+```
