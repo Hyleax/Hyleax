@@ -7,7 +7,7 @@
     <li>Also looking to pick up more <b>Python</b></li>
 </ul>
 
-### For any inquiries, you can contact me at [normanyaptw@yahoo.com](normanyaptw@yahoo.com)
+### For any inquiries, you can contact me at [normanyaptw@gmail.com](normanyaptw@gmail.com)
 
 
 
