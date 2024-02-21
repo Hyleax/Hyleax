@@ -5,22 +5,3 @@
 ### For any inquiries, you can contact me at [normanyaptw@gmail.com](normanyaptw@gmail.com)
 
 
-
-```js
-
-
-const hobbies = ["playing guitar", "playing football", "programming"]
-
-//hmu ;)
-let hasGF = false
-
-
-const God = "Jesus"
-
-// no reason for life without him
-const meaningOfLife = () => {
-    return God ? true : false
-}
-
-console.log(meaningOfLife())
-```
