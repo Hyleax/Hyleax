@@ -6,6 +6,12 @@
   <li>Software Engineering and Data Science for health-related problems</li>
   <li>Problem-solving with Web and Mobile Development</li>
 </ul>
-<br>
+<be>
+<h2>Currently Working on:</h2>
+<ul>
+  <li>Res-TCR: A deep learning cancer detection ResNet model that utilizes the CDR3 area on T-Cell Receptors</li>
+  <li>DiabAI: A web app that forecasts a diabetic patient's medical future and creates catered care plans using Large Language Models</li>
+</ul>
+
 
 ### For any inquiries, you can contact me at [normanyaptw@gmail.com](mailto:normanyaptw@gmail.com)
